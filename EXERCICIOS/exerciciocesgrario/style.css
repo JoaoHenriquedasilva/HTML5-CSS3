@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+header > img{
+    width: 300px;
+    height: 200px;
+}
+header{
+    background-color: #ffffff;
+}
+body{
+    background-color: cornflowerblue;
+}
